@@ -1,7 +1,8 @@
 Thanks for downloading this project!
 
 Project Name: Student Management System
-Author Name : Shivang Khatri
+Author Name : Team Minions
+
 
 This project contains the options to see attendance , rules & regualtions , study materials etc directly from homepage
 by loging in from student's side.
